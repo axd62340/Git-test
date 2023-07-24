@@ -1,0 +1,1 @@
+print("gani azar + entry course")
